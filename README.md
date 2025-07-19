@@ -46,7 +46,6 @@ Tasks are automatically saved to default_tasks.txt in the working directory on e
 Dulan Dhanush Kandeepan
 Aspiring Software Engineer · Tech Enthusiast
 
-
-####License
-This project is licensed under the MIT License 
+####LICENSE
+This project is licensed under the MIT LICENSE
 
