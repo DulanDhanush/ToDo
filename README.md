@@ -41,10 +41,12 @@ Tasks are automatically saved to default_tasks.txt in the working directory on e
 
 *Menu class handles user interaction, task storage, and file operations.
 
-Author
+
+####Author
 Dulan Dhanush Kandeepan
 Aspiring Software Engineer · Tech Enthusiast
 
-License
-This project is licensed under the MIT License - see the LICENSE file for details.
+
+####License
+This project is licensed under the MIT License 
 
